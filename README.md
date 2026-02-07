@@ -1,6 +1,18 @@
 # cohort_cusor_replica
 Recreated the cursor home page
 
+STYLES USED
+
+font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+  background-color: black;
+  background-color: #CCCCCC;
+  background-color: #1B1913;
+  color: #FFFFFF;
+  color: #a79f9f;
+  color: red;
+
+List of the sections recreated with screenshots.
+
 1. Top Navigation Bar
 <img width="1891" height="118" alt="image" src="https://github.com/user-attachments/assets/8e122d6f-f827-47cb-8143-1a2285a5d8fb" />
 
