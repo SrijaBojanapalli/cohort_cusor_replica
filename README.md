@@ -4,11 +4,17 @@ Recreated the cursor home page
 STYLES USED
 
 font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+ 
   background-color: black;
+  
   background-color: #CCCCCC;
+ 
   background-color: #1B1913;
+
   color: #FFFFFF;
+ 
   color: #a79f9f;
+
   color: red;
 
 List of the sections recreated with screenshots.
