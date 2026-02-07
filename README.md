@@ -9,4 +9,16 @@ Recreated the cursor home page
 
 3. Trusted By / Logos
 
+   <img width="1845" height="317" alt="image" src="https://github.com/user-attachments/assets/4a023f5e-24de-4d72-a323-f5b12897ea6e" />
+
+4. Feature Sections (3 blocks)
+
+   <img width="1842" height="737" alt="image" src="https://github.com/user-attachments/assets/d5d5a170-5f84-4487-8163-2cdbeab84053" />
+   <img width="1842" height="732" alt="image" src="https://github.com/user-attachments/assets/eeb30f70-d858-4e7d-a850-aaa7cb743123" />
+   <img width="1820" height="714" alt="image" src="https://github.com/user-attachments/assets/3353991c-d933-4297-a239-3e6167d511fe" />
+
+
+
+
+
 
